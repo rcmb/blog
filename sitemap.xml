@@ -2,8 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://rcmb.github.io/blog/tags/editors/</loc><lastmod>2021-01-23T13:20:14-05:00</lastmod></url><url>
             <loc>https://rcmb.github.io/blog/</loc><lastmod>2021-01-23T13:20:14-05:00</lastmod></url><url>
             <loc>https://rcmb.github.io/blog/posts/</loc><lastmod>2021-01-23T13:20:14-05:00</lastmod></url><url>
+            <loc>https://rcmb.github.io/blog/tags/</loc><lastmod>2021-01-23T13:20:14-05:00</lastmod></url><url>
+            <loc>https://rcmb.github.io/blog/tags/warm/</loc><lastmod>2021-01-23T13:20:14-05:00</lastmod></url><url>
             <loc>https://rcmb.github.io/blog/posts/warm_up/</loc><lastmod>2021-01-23T13:20:14-05:00</lastmod></url><url>
-            <loc>https://rcmb.github.io/blog/categories/</loc></url><url>
-            <loc>https://rcmb.github.io/blog/tags/</loc></url></urlset>
+            <loc>https://rcmb.github.io/blog/categories/</loc></url></urlset>
