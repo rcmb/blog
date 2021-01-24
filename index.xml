@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>GridBias - my learning scrap book</title>
-        <link>/</link>
+        <link>https://rcmb.github.io/blog/</link>
         <description>GridBias - my learning scrap book</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 23 Jan 2021 13:20:14 -0500</lastBuildDate>
-            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://rcmb.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Warm up</title>
-    <link>/posts/warm_up/</link>
+    <link>https://rcmb.github.io/blog/posts/warm_up/</link>
     <pubDate>Sat, 23 Jan 2021 13:20:14 -0500</pubDate>
     <author>Author</author>
-    <guid>/posts/warm_up/</guid>
+    <guid>https://rcmb.github.io/blog/posts/warm_up/</guid>
     <description><![CDATA[1 Intro The English Wikipedia reached 4,000,000 registered user accounts on 1 April 2007,[14] just a little over a year since the millionth Wikipedian registered an account in late February 2006.[15]
 2 History Over 1,100,000 editors have edited Wikipedia more than 10 times.[16] Over 30,000 editors perform more than 5 edits per month, and a little over 3,000 perform more than 100 edits per month.[17] By 24 November 2011, a total of 500 million edits had been performed on the English Wikipedia.]]></description>
 </item></channel>
