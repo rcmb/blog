@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - GridBias - my learning scrap book</title>
-        <link>https://rcmb.github.io/blog/tags/</link>
+        <link>https://rcmb.github.io/tags/</link>
         <description>Tags - Tag - GridBias - my learning scrap book</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 23 Jan 2021 13:20:14 -0500</lastBuildDate><atom:link href="https://rcmb.github.io/blog/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 23 Jan 2021 13:20:14 -0500</lastBuildDate><atom:link href="https://rcmb.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>editors</title>
-    <link>https://rcmb.github.io/blog/tags/editors/</link>
+    <link>https://rcmb.github.io/tags/editors/</link>
     <pubDate>Sat, 23 Jan 2021 13:20:14 -0500</pubDate>
     <author>Author</author>
-    <guid>https://rcmb.github.io/blog/tags/editors/</guid>
+    <guid>https://rcmb.github.io/tags/editors/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>warm</title>
-    <link>https://rcmb.github.io/blog/tags/warm/</link>
+    <link>https://rcmb.github.io/tags/warm/</link>
     <pubDate>Sat, 23 Jan 2021 13:20:14 -0500</pubDate>
     <author>Author</author>
-    <guid>https://rcmb.github.io/blog/tags/warm/</guid>
+    <guid>https://rcmb.github.io/tags/warm/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
